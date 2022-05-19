@@ -1,4 +1,6 @@
 ## 简介<br/> 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxysh90hou%2Fbase-admin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxysh90hou%2Fbase-admin?ref=badge_shield)
+
 Base Admin一套简单通用的后台管理系统<br/> 
 这套Base Admin是一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等<br/> 
 
@@ -59,3 +61,6 @@ QQ群号：1015379123
 微信<br/>
 ![](http://huanzi-qch.gitee.io/file-server/images/weixin.png) 
 <br/>注：如果图片加载不出来请点击查看[这里](http://huanzi-qch.gitee.io/file-server/images/weixin.png) 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxysh90hou%2Fbase-admin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxysh90hou%2Fbase-admin?ref=badge_large)
